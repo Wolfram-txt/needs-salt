@@ -1,1 +1,23 @@
-
+body{
+    background-color: black;
+    font-family: "Geo", sans-serif;
+}
+textarea{
+    font-family: "Geo", sans-serif;
+    background-color: rgb(25, 25,25);
+    color: rgb(25, 25,25);
+    font-size: 16px;
+    border-radius: 5px;
+    width:90%;
+    height: 30vw; 
+    margin:5%;
+    -webkit-text-fill-color: rgb(0, 255,0);
+    text-align: center;
+    padding:5px;
+}
+h1,p{
+    color: rgb(0, 255,0);
+    margin:auto;
+    width: 20%;
+    padding: 5px;
+}
